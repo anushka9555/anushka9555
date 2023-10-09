@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Anushka Rai</h1>
 <h3 align="center">An aspiring Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anushka9555&label=Profile%20views&color=0e75b6&style=flat" alt="anushka9555" /> </p>
+- 🌱 I’m currently learning **Deep Learning**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anushka9555" alt="anushka9555" /></a> </p>
+- 💬 Ask me about **Technology, Books, and Literature :)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/anushka9555/my_projects_new](https://github.com/anushka9555/my_projects_new)
+- 📫 How to reach me **anushkaraigzp2022@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1akp_ihfsBXpKtgfw3i9cht59XSAfmkya?usp=drive_link](https://drive.google.com/drive/folders/1akp_ihfsBXpKtgfw3i9cht59XSAfmkya?usp=drive_link)
+- 📄 Know about my experiences https://shorturl.at/cyEU0
 
-- ⚡ Fun fact **I think I am lazy coder.**
+- ⚡ Fun fact **A foody and happy girl :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,5 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushka9555&show_icons=true&locale=en" alt="anushka9555" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushka9555&" alt="anushka9555" /></p>
-
-

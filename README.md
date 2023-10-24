@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushka9555&show_icons=true&locale=en" alt="anushka9555" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushka9555&" alt="anushka9555" /></p>
+[![An image of @anushka9555's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anushka9555)](https://holopin.io/@anushka9555)

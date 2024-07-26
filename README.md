@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anushka Rai</h1>
 <h3 align="center">An aspiring Software Developer</h3>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **Technology, Books, and Literature :)**
 
